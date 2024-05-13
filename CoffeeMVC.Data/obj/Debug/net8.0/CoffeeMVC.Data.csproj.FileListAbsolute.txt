@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\bin\Debug\net8.0\CoffeeMVC.Data.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\bin\Debug\net8.0\CoffeeMVC.Data.runtimeconfig.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\bin\Debug\net8.0\CoffeeMVC.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\bin\Debug\net8.0\CoffeeMVC.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\bin\Debug\net8.0\CoffeeMVC.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\bin\Debug\net8.0\CoffeeMVC.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMV.00D9841F.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\refint\CoffeeMVC.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\CoffeeMVC.Data.genruntimeconfig.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Data\obj\Debug\net8.0\ref\CoffeeMVC.Data.dll

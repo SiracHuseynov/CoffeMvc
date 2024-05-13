@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Business.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\bin\Debug\net8.0\CoffeeMVC.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMV.747D9423.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\refint\CoffeeMVC.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\CoffeeMVC.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\CoffeeMVC.Business\obj\Debug\net8.0\ref\CoffeeMVC.Business.dll

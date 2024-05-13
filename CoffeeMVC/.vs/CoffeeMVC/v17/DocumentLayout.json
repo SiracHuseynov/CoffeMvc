@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54294E03-897D-4C54-A3A8-80D5DEF97CE8}|..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\Migrations\\20240513152108_SlidersTableCreategf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9EE16F-2292-44EC-BF7E-ADBD5D5BC87C}|..\\CoffeeMVC.Core\\CoffeeMVC.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54294E03-897D-4C54-A3A8-80D5DEF97CE8}|..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54294E03-897D-4C54-A3A8-80D5DEF97CE8}|..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.business\\coffeemvc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54294E03-897D-4C54-A3A8-80D5DEF97CE8}|..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\coffeemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:coffeemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9EE16F-2292-44EC-BF7E-ADBD5D5BC87C}|..\\CoffeeMVC.Core\\CoffeeMVC.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54294E03-897D-4C54-A3A8-80D5DEF97CE8}|..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D778AB-062F-4056-9D46-F9725376C18C}|..\\CoffeeMVC.Data\\CoffeeMVC.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D778AB-062F-4056-9D46-F9725376C18C}|..\\CoffeeMVC.Data\\CoffeeMVC.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9EE16F-2292-44EC-BF7E-ADBD5D5BC87C}|..\\CoffeeMVC.Core\\CoffeeMVC.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54294E03-897D-4C54-A3A8-80D5DEF97CE8}|..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.business\\exceptions\\imagefilecontextexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9EE16F-2292-44EC-BF7E-ADBD5D5BC87C}|..\\CoffeeMVC.Core\\CoffeeMVC.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\Migrations\\20240513131610_SlidersTableCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C473246-CFA3-46A9-94E0-138FC2E82BA0}|CoffeeMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D778AB-062F-4056-9D46-F9725376C18C}|..\\CoffeeMVC.Data\\CoffeeMVC.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\coffeemvc.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:46:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Business\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Business\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:18:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:46:56.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAmwPsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:31:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:41:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:46:53.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:24:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:46:09.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:07:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240513152108_SlidersTableCreategf.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\Migrations\\20240513152108_SlidersTableCreategf.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Data\\Migrations\\20240513152108_SlidersTableCreategf.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\Migrations\\20240513152108_SlidersTableCreategf.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Data\\Migrations\\20240513152108_SlidersTableCreategf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:21:08.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:02:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAUwP0AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:32:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:46:23.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAACkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:46:15.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Core\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\Models\\Slider.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Core\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:56:16.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:25:03.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CoffeeMVC.Business",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj",
+              "RelativeToolTip": "..\\CoffeeMVC.Business\\CoffeeMVC.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T14:53:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Business\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Business\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:05:24.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoffeeMVC",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\CoffeeMVC.csproj",
+              "RelativeDocumentMoniker": "CoffeeMVC.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\CoffeeMVC.csproj",
+              "RelativeToolTip": "CoffeeMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T12:54:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:17:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:02:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImageFileContextException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Exceptions\\ImageFileContextException.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Business\\Exceptions\\ImageFileContextException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Business\\Exceptions\\ImageFileContextException.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Business\\Exceptions\\ImageFileContextException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:57.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:30:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-13T13:27:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:40:44.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240513131610_SlidersTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\Migrations\\20240513131610_SlidersTableCreate.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Data\\Migrations\\20240513131610_SlidersTableCreate.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\Migrations\\20240513131610_SlidersTableCreate.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Data\\Migrations\\20240513131610_SlidersTableCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:16:10.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:46:27.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T13:14:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:04:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\CoffeeMVC.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\CoffeeMVC.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\CoffeeMVC.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:55:55.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
